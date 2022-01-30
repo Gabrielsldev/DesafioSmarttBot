@@ -34,7 +34,7 @@ Optou-se por desenvolver cada quesito como uma função diferente. Assim, é pos
 
 ## Dificuldades e Melhorias:
 
-- O desafio ficou um pouco dúbio em relação a qual lunguagem deveria ser utilizada:
+- O desafio ficou um pouco dúbio em relação a qual linguagem deveria ser utilizada:
   - Na área de explicação do problema foi sugerido **SQL**. Mas ao final, na área de **recomendações**, foi recomendado **Python**.
-    - Optei pelo Python pela recomendação feita, mas principalmente por gostar mais e por achar melhor para o tratamento e a visualização de dados em geral.
+    - **Optei pelo Python** pela recomendação feita, mas principalmente por **gostar mais** e por achar **melhor para o tratamento e a visualização de dados em geral**.
 - É possível utilizar outra ferramente para report, como Tableau ou PowerBI.
